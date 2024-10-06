@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Mu+Mingluan)
 ---
-<br><br><br><br><br><br>
+<br><br>
 <a href="https://profile-counter.glitch.me/mumingluan/count.svg">
   <img align="" src="https://profile-counter.glitch.me/mumingluan/count.svg" width="40%" />
 </a>
