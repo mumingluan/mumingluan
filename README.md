@@ -7,6 +7,11 @@ Mingluan
 ![Visitor Count](https://profile-counter.glitch.me/mumingluan/count.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+INI   0 hrs 8 mins    █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 **mumingluan/mumingluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
