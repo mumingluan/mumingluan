@@ -2,13 +2,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Mu+Mingluan)
 ---
-<br><br>
+<br><br><br><br><br><br>
 <a href="https://profile-counter.glitch.me/mumingluan/count.svg">
   <img align="" src="https://profile-counter.glitch.me/mumingluan/count.svg" width="40%" />
 </a>
 
 <a href="https://github.com/mumingluan">
-  <img align="center" src="https://ghrs.muml.eu.org/api?username=mumingluan&show_icons=false&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img align="center" src="https://ghrs.muml.eu.org/api?username=mumingluan&show_icons=false&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true" />
 </a>
 <a href="https://github.com/mumingluan">
   <img align="center" src="https://ghrs.muml.eu.org/api/top-langs/?username=mumingluan&layout=donut-vertical&api_domain=waka.fatui.xyz&theme=transparent" width="40%" />
