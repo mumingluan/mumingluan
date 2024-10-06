@@ -11,7 +11,7 @@
   <img align="center" src="https://ghrs.muml.eu.org/api?username=mumingluan&show_icons=false&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true" />
 </a>
 <a href="https://github.com/mumingluan">
-  <img align="right" src="https://ghrs.muml.eu.org/api/top-langs/?username=mumingluan&layout=donut-vertical&theme=transparent" width="40%" />
+  <img align="center" src="https://ghrs.muml.eu.org/api/top-langs/?username=mumingluan&layout=donut-vertical&theme=transparent" width="40%" />
 </a>
 
 
