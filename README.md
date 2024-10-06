@@ -14,7 +14,7 @@ INI   0 hrs 8 mins    ███████████████████�
 
 <!--END_SECTION:waka-->
 
-**mumingluan/mumingluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![mumingluan's GitHub stats](https://ghrs.muml.eu.org/api?username=mumingluan&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 Here are some ideas to get you started:
 
