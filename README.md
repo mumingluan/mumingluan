@@ -15,10 +15,10 @@ INI   0 hrs 8 mins    ███████████████████�
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mumingluan">
-  <img height=200 align="center" src="https://ghrs.muml.eu.org/api?username=mumingluan&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img align="center" src="https://ghrs.muml.eu.org/api?username=mumingluan&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/mumingluan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mumingluan&api_domain=waka.fatui.xyz" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mumingluan&api_domain=waka.fatui.xyz" />
 </a>
 
 
