@@ -1,10 +1,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-Mu
-Mingluan
-# 🍕
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Mu+Mingluan)](https://git.io/typing-svg)
+# 
 
-![Visitor Count](https://profile-counter.glitch.me/mumingluan/count.svg)
 
 <!--START_SECTION:waka-->
 
@@ -42,6 +40,7 @@ INI   0 hrs 8 mins    ███████████████████�
 
 <br />
 
+![Visitor Count](https://profile-counter.glitch.me/mumingluan/count.svg)
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
