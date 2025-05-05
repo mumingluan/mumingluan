@@ -24,7 +24,7 @@
 
 <pre>
     📖 Jilin No.1 High School China
-    💼 MUML Group & Fatui (The Doctor) & ESF & more...
+    💼 MUML Group & Fatui (The Doctor) & more...
     💻 System programming languages • DevOps 
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤
