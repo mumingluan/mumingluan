@@ -23,7 +23,6 @@
 <br><br>
 
 <pre>
-    📖 Jilin No.1 High School China
     💼 MUML Group & Fatui (The Doctor) & more...
     💻 System programming languages • DevOps 
     🎮 Music • Games • Anime • Code • Art
@@ -31,7 +30,6 @@
 </pre>
 <div align="center">
 <a href="https://github.com/mumingluan">
-  <img align="center" src="https://ghrs.muml.eu.org/api/wakatime/?username=mumingluan&layout=donut-vertical&api_domain=waka.fatui.xyz&theme=transparent" width="60%" />
 </a>
 <br><br>
 <div align="left">
@@ -40,7 +38,6 @@
 {
   "name": "Mu Mingluan",
   "nationality": "China",
-  "school": "Jilin No.1 High School",
   "preferred_languages": ["Go", "Java", "Node.js", "Rust", "Python"],
   "cloud_expertise": ["Cloudflare", "Tencent Cloud", "Alibaba Cloud", "Vercel", "Okteto"],
   "ai_tools": ["ChatGPT", "Stable Diffusion"]
